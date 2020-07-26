@@ -25,7 +25,7 @@ SECRET_KEY = 'rz0-#a8)t!_6k174j_8$m#wast%=%^@1@l1u&8pofhzkkzpr2c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['mysite.pythonanywhere.com']
+ALLOWED_HOSTS = ['learning_templates.pythonanywhere.com']
 
 
 # Application definition
